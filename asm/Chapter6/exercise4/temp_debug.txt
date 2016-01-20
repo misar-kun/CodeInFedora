@@ -1,0 +1,9 @@
+(gdb) x/s 0x08049370
+0x8049370 <SCAN_STRING>:         "Fr\n"
+(gdb)
+
+(gdb) x/s 0x08049228
+0x8049228 <RECORD_BUFFER>:       "Fredrick"
+(gdb)
+
+
